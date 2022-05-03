@@ -1,4 +1,5 @@
 # tempoo
+Cronometro para gerenciar tempo de produção. Similiar ao wrike
 
 ## Project setup
 ```
